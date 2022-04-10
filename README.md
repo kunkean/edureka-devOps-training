@@ -1,2 +1,2 @@
 # edureka-devOps-training
-training
+DevOps Training
